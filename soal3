@@ -1,0 +1,5 @@
+<!-- useEffect(() => {
+  axios.get('https://api.example.com/products')
+    .then((res) => setProducts(res.data));
+}, []);
+<FlatList data={products} renderItem={({ item }) => <Text>{item.name}</Text>} />; -->

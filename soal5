@@ -1,0 +1,6 @@
+// it('should handle ADD_PRODUCT', () => {
+//   const initialState = { products: [] };
+//   const action = { type: 'ADD_PRODUCT', payload: { id: 1, name: 'Product A' } };
+//   const newState = productReducer(initialState, action);
+//   expect(newState.products.length).toBe(1);
+// });
